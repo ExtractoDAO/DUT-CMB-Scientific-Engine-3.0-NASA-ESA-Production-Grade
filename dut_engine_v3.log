@@ -3,3 +3,42 @@
  * Running on http://127.0.0.1:5000
  * Running on http://192.168.18.96:5000
 2025-12-19 19:42:56,374 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-19 19:46:44,663 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.18.96:5000
+2025-12-19 19:46:44,664 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-19 19:47:00,204 - werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 19:47:00] "GET / HTTP/1.1" 200 -
+2025-12-19 19:47:00,627 - werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 19:47:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-19 19:48:03,977 - werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 19:48:03] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-12-19 19:48:07,594 - werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 19:48:07] "GET / HTTP/1.1" 200 -
+2025-12-19 19:48:07,966 - werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 19:48:07] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-12-19 19:50:50,891 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.18.96:8000
+2025-12-19 19:50:50,892 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-19 19:51:01,904 - werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 19:51:01] "GET / HTTP/1.1" 200 -
+2025-12-19 19:51:02,150 - werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 19:51:02] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-12-19 19:51:02,332 - werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 19:51:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-19 19:52:03,815 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.18.96:8000
+2025-12-19 19:52:03,815 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-19 19:52:10,166 - werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 19:52:10] "GET / HTTP/1.1" 200 -
+2025-12-19 19:52:10,412 - werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 19:52:10] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-12-19 19:52:10,559 - werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 19:52:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-19 19:52:15,435 - werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 19:52:15] "GET / HTTP/1.1" 200 -
+2025-12-19 19:52:15,781 - werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 19:52:15] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-12-19 19:52:16,050 - werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 19:52:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-19 19:52:17,586 - werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 19:52:17] "POST /run HTTP/1.1" 200 -
+2025-12-19 19:52:18,920 - werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 19:52:18] "GET /status HTTP/1.1" 200 -
+2025-12-19 19:52:19,921 - werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 19:52:19] "GET /status HTTP/1.1" 200 -
+2025-12-19 19:52:20,604 - werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 19:52:20] "GET /status HTTP/1.1" 200 -
+2025-12-19 19:52:21,913 - werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 19:52:21] "GET /status HTTP/1.1" 200 -
+2025-12-19 19:54:06,113 - werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 19:54:06] "POST /run HTTP/1.1" 200 -
+2025-12-19 19:54:07,130 - werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 19:54:07] "GET /status HTTP/1.1" 200 -
+2025-12-19 19:54:08,455 - werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 19:54:08] "GET /status HTTP/1.1" 200 -
+2025-12-19 19:54:09,132 - werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 19:54:09] "GET /status HTTP/1.1" 200 -
+2025-12-19 19:54:10,439 - werkzeug - INFO - 127.0.0.1 - - [19/Dec/2025 19:54:10] "GET /status HTTP/1.1" 200 -
